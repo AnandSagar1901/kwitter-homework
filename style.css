@@ -1,0 +1,23 @@
+#speech_bubble
+{
+width: 20%;
+height: 50px;
+
+}
+
+#user_name
+{
+color: black;
+background-color: aquamarine;
+}
+body
+{
+    background-color: blanchedalmond;
+    
+}
+h4{
+    color: blueviolet;
+}
+label{
+    padding-bottom: 1cm;
+}
